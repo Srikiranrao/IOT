@@ -1,4 +1,4 @@
-Can follow the installation and configuring steps from the below link to set Rpi as internet Accesspoint. To send the data from Pycom dateway to TTN cloud
+Can follow the installation and configuring steps from the below link to set Rpi as internet Accesspoint. To send the data from Pycom gateway to TTN cloud
 
 https://raspberry-valley.azurewebsites.net/RaspAP-Wifi-Hotspot/
 
